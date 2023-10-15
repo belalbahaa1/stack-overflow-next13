@@ -1,5 +1,3 @@
-/* globals CSS */
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -36,7 +34,7 @@ body {
   }
 
   .btn-tertiary {
-    @apply bg-light-700 dark:bg-dark-300 !important;
+    @apply bg-light-700 dark:bg-dark-200 !important;
   }
 
   .markdown {
